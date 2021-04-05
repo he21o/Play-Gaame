@@ -4,9 +4,13 @@ Can You Play Game??? No ! U IS A Stupid! Play The Rubbish Game!
 
 ### How To Play?
 1.Rickroll
+
 2.Boom!
+
 3.Duck You*
+
 4.Say Goodbye!~
+
 5.Resist porn
 
 If you can help us translate the website or suggest feedback, please contact us🌝🌝🌝:
@@ -17,4 +21,5 @@ Email:
 </a>
 
 Github:
+
 [Go]https://github.com/he21o/Play-Gaame
