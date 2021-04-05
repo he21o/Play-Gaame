@@ -31,6 +31,6 @@ ______
 ### Change languages:
 - English
 
-[简体中文]
+[简体中文](https://u.duurl.top/index.html)
 
 [繁體中文]
