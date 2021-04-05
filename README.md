@@ -1,4 +1,4 @@
-### Play-Gaame
+### Play-Game
 _______
 Can You Play Game??? No ! U IS A Stupid! Play The Rubbish Game!
 
@@ -23,4 +23,4 @@ Email:
 
 Github:
 
-[Go](https://github.com/he21o/Play-Gaame)
+[Go](https://github.com/he21o/Play-Game)
