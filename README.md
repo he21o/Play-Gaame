@@ -24,3 +24,6 @@ Email:
 Github:
 
 [Go](https://github.com/he21o/Play-Game)
+
+Change languages
+______
