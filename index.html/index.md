@@ -37,4 +37,4 @@ ______
 
 [繁体中文]
 
-[English](index.html/Eng.md)
+[English](https://u.duurl.top/index.html/Eng)
