@@ -13,7 +13,7 @@ var APP = (function(){
         // 生成短地址
         setUrl: function(self) {
             var urlEl = document.getElementById('url'),
-                tips = 'https://',
+                tips = 'https://s.duurl.top/',
                 request = {"url": urlEl.value};
             fn.getJson('api/set.php', true, JSON.stringify(request), function(res) {
                 if(res.success == 'true') {
