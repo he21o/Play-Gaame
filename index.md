@@ -4,7 +4,7 @@ ______
 
 #### 点击收藏网址👉
 <input type="button" name="Submit" onClick='copyToClipBoard()' value="🗒️网址">
-<script language="javascript">
+<script>
     function copyToClipBoard(){
      var clipBoardContent="http://u.duurl.top/";
        clipBoardContent+=this.location.href;
