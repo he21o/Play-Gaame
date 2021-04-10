@@ -5,4 +5,4 @@ ______
 #### 点击收藏网址👉 <a href="javascript:void(0);" onClick="window.external.AddFavorite(document.location.href,document.title)">收藏</a>
 
 
-[搜索素材🔍](/search.html)
+[搜索素材](/material)
