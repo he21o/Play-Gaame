@@ -1,3 +1,14 @@
+<style type="text/css">
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+
+
 # 114514素材
 
 ### 素材来源
