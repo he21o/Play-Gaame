@@ -31,9 +31,41 @@
 
 <h2 id="素材来源">素材来源</h3>
 
-<video width="100%" height="100%" controls="">
-    <source src="https://u.duurl.top/material/mp4/%E7%94%B0%E6%89%80%E6%B5%A9%E4%BA%8C%E5%92%86%E5%93%AE.mp4" type="video/mp4" />    
-</video>
+<script>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,minimal-ui">
+    <meta name="referrer" content="no-referrer">
+    <title>xgplayer</title>
+    <style type="text/css">
+      html, body {width:100%;height:100%;margin:auto;overflow: hidden;}
+      body {display:flex;}
+      #mse {flex:auto;}
+    </style>
+    <script type="text/javascript">
+      window.addEventListener('resize',function(){document.getElementById('mse').style.height=window.innerHeight+'px';});
+    </script>
+  </head>
+  <body>
+    <div id="mse"></div>
+    <script src="//sf1-ttcdn-tos.pstatp.com/obj/unpkg/xgplayer/2.9.6/browser/index.js" charset="utf-8"></script>
+    <script type="text/javascript">
+      let player=new Player({
+        id: 'mse',
+        autoplay: false,
+        volume: 0.3,
+        url:'https://u.duurl.top/material/mp4/%E7%94%B0%E6%89%80%E6%B5%A9%E4%BA%8C%E5%92%86%E5%93%AE.mp4',
+        poster: "https://pic3.zhimg.com/v2-44c3b6dbce95ef4cecb0186178838542_r.jpg",
+        playsinline: true,
+        height: window.innerHeight,
+        width: window.innerWidth
+      });
+    </script>
+  </body>
+</html>
+</script>
 
 <h3 id="下载视频">下载视频:</h4>
 
