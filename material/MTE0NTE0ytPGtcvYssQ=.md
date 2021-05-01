@@ -1,3 +1,7 @@
+<link href="//vjs.zencdn.net/5.19/video-js.min.css" rel="stylesheet">
+<script src="//vjs.zencdn.net/5.19/video.min.js"></script>
+
+
 # 114514素材
 
 ### 素材来源
