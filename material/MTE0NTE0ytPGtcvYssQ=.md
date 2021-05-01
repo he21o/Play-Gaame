@@ -6,4 +6,7 @@
     <source src="https://u.duurl.top/material/mp4/%E7%94%B0%E6%89%80%E6%B5%A9%E4%BA%8C%E5%92%86%E5%93%AE.mp4" type="video/mp4">    
 </video>
 
-<button onclick="location.href='https://u.duurl.top/material/mp4/%E7%94%B0%E6%89%80%E6%B5%A9%E4%BA%8C%E5%92%86%E5%93%AE.mp4'" type="button">下载视频</button>
+#### 下载视频:
+_________________________________
+|质量       |大小      |下载按钮   |
+_________________________________
