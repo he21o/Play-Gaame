@@ -1,14 +1,3 @@
-<style type="text/css">
-a.button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-
-    text-decoration: none;
-    color: initial;
-}
-
-
 # 114514素材
 
 ### 素材来源
@@ -36,7 +25,7 @@ a.button {
       <td>480P</td>
       <td>百度贴吧</td>
       <td>670KB</td>
-      <td><a href="https://u.duurl.top/material/f4v/03000201004B864D0C457200031CCD30AFC92A-7F9E-135E-F0E1-662027AC10F9.flv"><button>点我下载</button></a></td>
+      <td><a href="https://u.duurl.top/material/f4v/03000201004B864D0C457200031CCD30AFC92A-7F9E-135E-F0E1-662027AC10F9.flv"><button>下载我</button></a></td>
     </tr>
   </tbody>
 </table>
