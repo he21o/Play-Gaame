@@ -7,6 +7,25 @@
 </video>
 
 #### 下载视频:
-_________________________________
-|质量       |大小      |下载按钮   |
-_________________________________
+
+ <table>
+  <tbody>
+    <tr>
+      <td>质量</td>
+      <td>来源</td>
+      <td>大小</td>
+      <td>下载按钮</td>
+    </tr>
+  </tbody>
+</table>
+
+ <table>
+  <tbody>
+    <tr>
+      <td>480P</td>
+      <td>百度贴吧</td>
+      <td>670KB</td>
+      <td><a href="https://u.duurl.top/material/mp4/%E7%94%B0%E6%89%80%E6%B5%A9%E4%BA%8C%E5%92%86%E5%93%AE.mp4"><button>点击我下载</button></a></td>
+    </tr>
+  </tbody>
+</table>
