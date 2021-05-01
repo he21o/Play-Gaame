@@ -25,7 +25,7 @@
       <td>480P</td>
       <td>百度贴吧</td>
       <td>670KB</td>
-      <td><a href="https://u.duurl.top/material/mp4/%E7%94%B0%E6%89%80%E6%B5%A9%E4%BA%8C%E5%92%86%E5%93%AE.mp4"><button>点击我下载</button></a></td>
+      <td><a href="https://u.duurl.top/material/f4v/03000201004B864D0C457200031CCD30AFC92A-7F9E-135E-F0E1-662027AC10F9.flv"><button>点我下载</button></a></td>
     </tr>
   </tbody>
 </table>
